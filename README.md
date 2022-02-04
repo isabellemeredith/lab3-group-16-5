@@ -1,5 +1,4 @@
 Project Team Members: 
-Isabelle Meredith
-Abby Barnes
+Isabelle Meredith, Rui W., Abby Barnes
 # lab3-group-16-5
 
