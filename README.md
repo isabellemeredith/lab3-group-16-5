@@ -1,2 +1,2 @@
 Project Team Members: 
-Jack Kapushion
+Jack Kapushion, Isabelle Meredith, Rui W., Keyin Huang, Abby Barnes, Kyle Roth
